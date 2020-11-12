@@ -1,4 +1,4 @@
-# Daily Photos
+# Daily Vision
 
 每天用手机或相机拍出一张至少能令自己满意的照片。欢迎订阅~
 
