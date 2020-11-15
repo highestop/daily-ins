@@ -1,4 +1,4 @@
-# InstaPhoto365
+# Daily-Photo
 
 坚持每天拍出一张至少能令自己满意的照片。欢迎订阅~
 
