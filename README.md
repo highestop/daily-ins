@@ -1,19 +1,17 @@
-# 365-Photos
+# Daily-InstaLIFE
 
 坚持每天拍出一张至少能令自己满意的照片。欢迎订阅~
 
-有什么建议或意见可以随时给我提 Issue 或以任何你能想到的方式联系我😋
-
 ---
 
-我的微信频道👇🏻
+我的微信频道 InstaLIFE 👇🏻
 
 <p><img src="./images/my_wxchannel.jpg" width="128"></p>
 
-我的微信公众号👇🏻
+我的微信公众号 InstaLIFE👇🏻
 
 <p><img src="./images/my_wxpages.jpg" width="128"></p>
 
-我的 Instagram👇🏻
+我的 Instagram highestop_instalife👇🏻
 
 <p><img src="./images/instagram.jpg" width="128"></p>
