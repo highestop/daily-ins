@@ -6,10 +6,6 @@
 
 ---
 
-我的 Instagram👇🏻
-
-<p><img src="./images/instagram.jpg" width="128"></p>
-
 我的微信频道👇🏻
 
 <p><img src="./images/my_wxchannel.jpg" width="128"></p>
@@ -17,3 +13,7 @@
 我的微信公众号👇🏻
 
 <p><img src="./images/my_wxpages.jpg" width="128"></p>
+
+我的 Instagram👇🏻
+
+<p><img src="./images/instagram.jpg" width="128"></p>
