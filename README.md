@@ -4,12 +4,12 @@
 
 ## 微信公众号：InstaLIFE
 
-<p><img src="./images/my_wxpages.jpg" width="128"></p>
+<p><img src="./images/my_wxpages.jpg" width="256"></p>
 
 ## 微信视频号：InstaLIFE
 
-<p><img src="./images/my_wxchannel.jpg" width="128"></p>
+<p><img src="./images/my_wxchannel.jpg" width="256"></p>
 
 ## Instagram：[highestop_instalife](https://www.instagram.com/highestop_instalife/)
 
-<p><img src="./images/instagram.jpg" width="128"></p>
+<p><img src="./images/instagram.jpg" width="256"></p>
