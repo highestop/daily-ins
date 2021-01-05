@@ -1,12 +1,10 @@
 # Daily InstaLife
 
-坚持每天拍出一张至少能令自己满意的照片~
-
-## 微信公众号：InstaLIFE
+## 微信公众号
 
 <p><img src="./images/my_wxpages.jpg" width="256"></p>
 
-## 微信视频号：InstaLIFE
+## 微信视频号
 
 <p><img src="./images/my_wxchannel.jpg" width="256"></p>
 
